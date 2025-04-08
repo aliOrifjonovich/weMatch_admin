@@ -11,7 +11,6 @@ const Opportunities = () => {
   const [openModal, setOpenModal] = useState(false);
   const handlePost = async (e) =>{
         e.preventDefault()
-
       
   }
   return (
