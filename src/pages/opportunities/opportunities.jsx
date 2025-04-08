@@ -12,9 +12,7 @@ const Opportunities = () => {
   const handlePost = async (e) =>{
         e.preventDefault()
 
-        const data = {
-            
-        }
+      
   }
   return (
     <>
